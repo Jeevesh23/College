@@ -1,0 +1,188 @@
+Script started on Wednesday 02 August 2023 12:11:10 PM IST
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ mkdir GEC
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ cd GEc[KC
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC[00m$ mkdir Comp IT ETC ENE Civil Mech
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC[00m$ cd Comp
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Comp[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Comp[00m$ mkdir SE TE BE
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Comp[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Comp[00m$ cd TE
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Comp/TE[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Comp/TE[00m$ mkdir OS DBMS AI
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Comp/TE[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Comp/TE[00m$ cd OS
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Comp/TE/OS[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Comp/TE/OS[00m$ mkdir Expt Assigmn[Ketn[K[Knt
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Comp/TE/OS[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Comp/TE/OS[00m$ cd Expt
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Comp/TE/OS/Expt[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Comp/TE/OS/Expt[00m$ touch expt1 expt2 expt3 expt4 expt5 expt6 expt7 expt7[K8 expt9 expt10
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Comp/TE/OS/Expt[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Comp/TE/OS/Expt[00m$ cd ..
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Comp/TE/OS[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Comp/TE/OS[00m$ cd a=[K[KAssignment
+bash: cd: Assignment: No such file or directory
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Comp/TE/OS[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Comp/TE/OS[00m$ cd Assignment[K[K[K[K[K[K[Kigment
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Comp/TE/OS/Assigment[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Comp/TE/OS/Assigment[00m$ touch assig1 assig3[K2 assig3 assig4
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Comp/TE/OS/Assigment[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Comp/TE/OS/Assigment[00m$ cd ..
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Comp/TE/OS[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Comp/TE/OS[00m$ cd ..
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Comp/TE[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Comp/TE[00m$ cd ..
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Comp[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Comp[00m$ cd ..
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC[00m$ cd Civil
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Civil[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Civil[00m$ k[Kmkdie [K[Kr SE TE BE
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/Civil[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/Civil[00m$ cd ..
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC[00m$ cd NE[K[KENE
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/ENE[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/ENE[00m$ mkdir Project Internship
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/ENE[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/ENE[00m$ cd Proej[K[Kject
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/ENE/Project[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/ENE/Project[00m$ touch file1 file2
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/ENE/Project[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/ENE/Project[00m$ cd ..
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/ENE[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/ENE[00m$ cd Internship
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/ENE/Internship[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/ENE/Internship[00m$ touch fl[Kile1
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/ENE/Internship[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/ENE/Internship[00m$ cd ..
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC/ENE[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC/ENE[00m$ cd ..
+]0;softcomputing@softcomputing: ~/Desktop/211105039/GEC[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039/GEC[00m$ cd..[K[K ..
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ tree GEC
+[01;34mGEC[00m
+├── [01;34mCivil[00m
+│   ├── [01;34mBE[00m
+│   ├── [01;34mSE[00m
+│   └── [01;34mTE[00m
+├── [01;34mComp[00m
+│   ├── [01;34mBE[00m
+│   ├── [01;34mSE[00m
+│   └── [01;34mTE[00m
+│       ├── [01;34mAI[00m
+│       ├── [01;34mDBMS[00m
+│       └── [01;34mOS[00m
+│           ├── [01;34mAssigment[00m
+│           │   ├── assig1
+│           │   ├── assig2
+│           │   ├── assig3
+│           │   └── assig4
+│           └── [01;34mExpt[00m
+│               ├── expt1
+│               ├── expt10
+│               ├── expt2
+│               ├── expt3
+│               ├── expt4
+│               ├── expt5
+│               ├── expt6
+│               ├── expt7
+│               ├── expt8
+│               └── expt9
+├── [01;34mENE[00m
+│   ├── [01;34mInternship[00m
+│   │   └── file1
+│   └── [01;34mProject[00m
+│       ├── file1
+│       └── file2
+├── [01;34mETC[00m
+├── [01;34mIT[00m
+└── [01;34mMech[00m
+
+19 directories, 17 files
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ ls
+[0m[01;34mGEC[0m  jeevesh.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ ls -l Jeevesh.txt[1Peevesh.txtjeevesh.txt[C[C[C[C[C[C[C[C[C[C
+-rw-rw-r-- 1 softcomputing softcomputing 4096 Aug  2 12:13 jeevesh.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ chmod 765 jeevesh.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ chmod 765 jeevesh.txt[4Pls -l[C[C[C[C[C[C[C[C[C[C[C[C
+-rwxrw-r-x 1 softcomputing softcomputing 4096 Aug  2 12:13 [0m[01;32mjeevesh.txt[0m
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ chmod ugo+w-x jeevesh.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ chmod ugo+w-x jeevesh.txt[8Pls -l[C[C[C[C[C[C[C[C[C[C[C[C
+-rw-rw-rw- 1 softcomputing softcomputing 8192 Aug  2 12:26 jeevesh.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ chmod 761 jeevesh.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ chmod 761 jeevesh.txt[4Pls -l[C[C[C[C[C[C[C[C[C[C[C[C
+-rwxrw---x 1 softcomputing softcomputing 8192 Aug  2 12:26 [0m[01;32mjeevesh.txt[0m
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ ls -l jeevesh.txt[4@chmod 761[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P jeevesh.txt4 jeevesh.txt6 jeevesh.txt3 jeevesh.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ chmod 463 jeevesh.txt[4Pls -l[C[C[C[C[C[C[C[C[C[C[C[C
+-r--rw--wx 1 softcomputing softcomputing 8192 Aug  2 12:26 [0m[01;32mjeevesh.txt[0m
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ ls -l jeevesh.txt[4@chmod 463[C[C[C[C[C[C[C[C[C[C[C[C[4Pls -l[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ktree
+[01;34m.[00m
+├── [01;34mGEC[00m
+│   ├── [01;34mCivil[00m
+│   │   ├── [01;34mBE[00m
+│   │   ├── [01;34mSE[00m
+│   │   └── [01;34mTE[00m
+│   ├── [01;34mComp[00m
+│   │   ├── [01;34mBE[00m
+│   │   ├── [01;34mSE[00m
+│   │   └── [01;34mTE[00m
+│   │       ├── [01;34mAI[00m
+│   │       ├── [01;34mDBMS[00m
+│   │       └── [01;34mOS[00m
+│   │           ├── [01;34mAssigment[00m
+│   │           │   ├── assig1
+│   │           │   ├── assig2
+│   │           │   ├── assig3
+│   │           │   └── assig4
+│   │           └── [01;34mExpt[00m
+│   │               ├── expt1
+│   │               ├── expt10
+│   │               ├── expt2
+│   │               ├── expt3
+│   │               ├── expt4
+│   │               ├── expt5
+│   │               ├── expt6
+│   │               ├── expt7
+│   │               ├── expt8
+│   │               └── expt9
+│   ├── [01;34mENE[00m
+│   │   ├── [01;34mInternship[00m
+│   │   │   └── file1
+│   │   └── [01;34mProject[00m
+│   │       ├── file1
+│   │       └── file2
+│   ├── [01;34mETC[00m
+│   ├── [01;34mIT[00m
+│   └── [01;34mMech[00m
+└── [01;32mjeevesh.txt[00m
+
+20 directories, 18 files
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ treels -l jeevesh.txt[4@chmod 463[C[C[C[C[C[C[C[C[C[C[C[C[4Pls -l[C[C[C[C[C[C[C[C[C[C[C[C
+-r--rw--wx 1 softcomputing softcomputing 8192 Aug  2 12:26 [0m[01;32mjeevesh.txt[0m
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ stty
+speed 38400 baud; line = 0;
+-brkint -imaxbel iutf8
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ tty
+/dev/pts/19
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ cle[K[Kal 2[K1976
+                            1976
+      January               February               March          
+Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
+             1  2  3   1  2  3  4  5  6  7      1  2  3  4  5  6  
+ 4  5  6  7  8  9 10   8  9 10 11 12 13 14   7  8  9 10 11 12 13  
+11 12 13 14 15 16 17  15 16 17 18 19 20 21  14 15 16 17 18 19 20  
+18 19 20 21 22 23 24  22 23 24 25 26 27 28  21 22 23 24 25 26 27  
+25 26 27 28 29 30 31  29                    28 29 30 31           
+                                                                  
+
+       April                  May                   June          
+Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
+             1  2  3                     1         1  2  3  4  5  
+ 4  5  6  7  8  9 10   2  3  4  5  6  7  8   6  7  8  9 10 11 12  
+11 12 13 14 15 16 17   9 10 11 12 13 14 15  13 14 15 16 17 18 19  
+18 19 20 21 22 23 24  16 17 18 19 20 21 22  20 21 22 23 24 25 26  
+25 26 27 28 29 30     23 24 25 26 27 28 29  27 28 29 30           
+                      30 31                                       
+
+        July                 August              September        
+Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
+             1  2  3   1  2  3  4  5  6  7            1  2  3  4  
+ 4  5  6  7  8  9 10   8  9 10 11 12 13 14   5  6  7  8  9 10 11  
+11 12 13 14 15 16 17  15 16 17 18 19 20 21  12 13 14 15 16 17 18  
+18 19 20 21 22 23 24  22 23 24 25 26 27 28  19 20 21 22 23 24 25  
+25 26 27 28 29 30 31  29 30 31              26 27 28 29 30        
+                                                                  
+
+      October               November              December        
+Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
+                1  2      1  2  3  4  5  6            1  2  3  4  
+ 3  4  5  6  7  8  9   7  8  9 10 11 12 13   5  6  7  8  9 10 11  
+10 11 12 13 14 15 16  14 15 16 17 18 19 20  12 13 14 15 16 17 18  
+17 18 19 20 21 22 23  21 22 23 24 25 26 27  19 20 21 22 23 24 25  
+24 25 26 27 28 29 30  28 29 30              26 27 28 29 30 31     
+31                                                                
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ bc
+bc 1.06.95
+Copyright 1991-1994, 1997, 1998, 2000, 2004, 2006 Free Software Foundation, Inc.
+This is free software with ABSOLUTELY NO WARRANTY.
+For details type `warranty'. 
+4555*8
+36440
+466+77
+543
+]0;softcomputing@softcomputing: ~/Desktop/211105039[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105039[00m$ exit
+
+Script done on Wednesday 02 August 2023 12:39:18 PM IST
