@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Candlestick Chart Example</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-financial"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+    <style>
+      #chartContainer {
+        max-width: 600px;
+        margin: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="chartContainer">
+      <canvas id="myChart" width="300" height="300"></canvas>
+    </div>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const ctx = document.getElementById("myChart").getContext("2d");
+
+        if (!ctx) {
+          console.error("Failed to get canvas context");
+          return;
+        }
+
+        console.log("Canvas context obtained successfully");
+
+        const data = {
+          datasets: [
+            {
+              label: "Candlestick Chart",
+              data: [
+                {
+                  x: new Date("2023-07-01").getTime(),
+                  o: 30.5,
+                  h: 32.0,
+                  l: 28.5,
+                  c: 31.0,
+                },
+                {
+                  x: new Date("2023-07-02").getTime(),
+                  o: 31.0,
+                  h: 31.5,
+                  l: 29.0,
+                  c: 30.0,
+                },
+                {
+                  x: new Date("2023-07-03").getTime(),
+                  o: 30.0,
+                  h: 32.5,
+                  l: 29.5,
+                  c: 32.0,
+                },
+                // Add more data points here
+              ],
+              color: {
+                up: "#26a69a",
+                down: "#ef5350",
+                unchanged: "#ffffff",
+              },
+            },
+          ],
+        };
+
+        const options = {
+          scales: {
+            x: {
+              type: "time",
+              time: {
+                unit: "day",
+                tooltipFormat: "MMM D",
+              },
+              title: {
+                display: true,
+                text: "Date",
+              },
+            },
+            y: {
+              beginAtZero: false,
+              title: {
+                display: true,
+                text: "Price",
+              },
+            },
+          },
+          plugins: {
+            legend: {
+              display: true,
+            },
+            tooltip: {
+              callbacks: {
+                label: function (context) {
+                  let label = context.dataset.label || "";
+                  if (label) {
+                    label += ": ";
+                  }
+                  label += `O: ${context.raw.o}, H: ${context.raw.h}, L: ${context.raw.l}, C: ${context.raw.c}`;
+                  return label;
+                },
+              },
+            },
+          },
+          maintainAspectRatio: false, // Add this option to disable the default behavior of maintaining the aspect ratio
+        };
+
+        new Chart(ctx, {
+          type: "candlestick",
+          data: data,
+          options: options,
+        });
+
+        console.log("Chart initialized successfully");
+      });
+    </script>
+  </body>
+</html>
